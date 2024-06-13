@@ -8,6 +8,11 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 Ghalih :
 <br><br><a href="https://wa.me/+6283835928783" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
+## GROUP CHAT TELEGRAM MEMBER!
+Group Chat:
+<br><br><a href="https://t.me/joinchat/EXAMPLEGROUP" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Group 1&message=Click%20Here&color=0088cc"></a>
+
+
 ## GROUP CHAT WHATSAPP MEMBER!
 Group Chat :
 <br><br><a href="https://chat.whatsapp.com/ENzsH813IKzLbARWtB6Ysl" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 1&message=Click%20Here&color=#006400">
