@@ -71,9 +71,11 @@ wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/update.sh && chm
 
 ## TESTIMONI
 Whatsapp & Telegram :
-<br><br><a href="https://t.me/testighalih" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Group 1&message=Click%20Here&color=0088cc"></a>
+<br><br><a href="https://t.me/testighalih" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=0088cc"></a>
 <br><br><a href="https://whatsapp.com/channel/0029VaaRHbjJENy5s37rOl0U" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Saluran&message=Click%20Here&color=#006400">
 
 ## GROUP CHAT WHATSAPP MEMBER!
 Group Chat :
 <br><br><a href="https://chat.whatsapp.com/ENzsH813IKzLbARWtB6Ysl" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 1&message=Click%20Here&color=#006400">
+<br><br><a href="https://chat.whatsapp.com/H3hhaEWqQkR6PhbeCMTiI1" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 1&message=Click%20Here&color=#006400">
+
