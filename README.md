@@ -8,16 +8,6 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 Ghalih :
 <br><br><a href="https://wa.me/+6283835928783" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
-## GROUP CHAT TELEGRAM MEMBER!
-Group Chat:
-<br><br><a href="https://t.me/joinchat/EXAMPLEGROUP" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Group 1&message=Click%20Here&color=0088cc"></a>
-
-
-## GROUP CHAT WHATSAPP MEMBER!
-Group Chat :
-<br><br><a href="https://chat.whatsapp.com/ENzsH813IKzLbARWtB6Ysl" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 1&message=Click%20Here&color=#006400">
-<br><br><a href="https://chat.whatsapp.com/H3hhaEWqQkR6PhbeCMTiI1" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 2&message=Click%20Here&color=#006400">
-
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
 wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/update.sh && chmod +x update.sh && ./update.sh
@@ -73,7 +63,10 @@ wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/update.sh && chm
 
 ## TAMPILAN MENU SCRIPT
 
-## `! MEKANISME PENYEWAAN AUTOSCRIPT MEMBER 10K, 2 IP / BULAN !`
+## `! CATATAN DAN MEKANISME PENYEWAAN AUTOSCRIPT MEMBER 10K, 2 IP / BULAN !`
 - Script `VIP` Last Update `Version 2.4`, Semua Fitur Pada Menu Utama Sudah Dioptimalkan Sehingga Meminimalisir Adanya `BUG`<br>
+- Menu SlowDNS masih Belum Tersedia<br>
+- Fitur Bot Tele hanya Sebagai Tambahan Beberapa diantaranya belum dioptimalkan<br>
 
-Hubungi Admin Melalui Whatsaap, Kirim `IP VPS` Dan `Lakukan Proses Pembayaran!`. Setelah Berhasil IP Akan Diinputkan Oleh - Admin 
+
+Hubungi Admin Melalui Whatsaap atau Telegram , Kirim `IP VPS` Dan `Lakukan Proses Pembayaran!`. Setelah Berhasil IP Akan Diinputkan Oleh - Admin 
