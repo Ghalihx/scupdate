@@ -10,8 +10,8 @@ Ghalih :
 
 ## GROUP CHAT WHATSAPP MEMBER!
 Group Chat :
-<br><br><a href="https://chat.whatsapp.com/ENzsH813IKzLbARWtB6Ysl" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group Chat&message=Click%20Here&color=#006400">
-<br><br><a href="https://chat.whatsapp.com/H3hhaEWqQkR6PhbeCMTiI1" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group Chat2&message=Click%20Here&color=#006400">
+<br><br><a href="https://chat.whatsapp.com/ENzsH813IKzLbARWtB6Ysl" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 1&message=Click%20Here&color=#006400">
+<br><br><a href="https://chat.whatsapp.com/H3hhaEWqQkR6PhbeCMTiI1" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 2&message=Click%20Here&color=#006400">
 
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
