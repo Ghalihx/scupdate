@@ -7,8 +7,12 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ## IZIN IP AUTOSCRIPT KHUSUS MEMBER VIP !
 Ghalih :
 <br><br><a href="https://wa.me/+6283835928783" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
-Group Chat : <br><br><a href="https://wa.me/+6283835928783" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
-## UPDATE SCRIPT
+
+## GROUP CHAT WHATSAPP MEMBER!
+Group Chat :
+<br><br><a href="https://chat.whatsapp.com/ENzsH813IKzLbARWtB6Ysl" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group Chat&message=Click%20Here&color=#006400">
+<br><br><a href="https://chat.whatsapp.com/H3hhaEWqQkR6PhbeCMTiI1" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group Chat2&message=Click%20Here&color=#006400">
+
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
 wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/update.sh && chmod +x update.sh && ./update.sh
