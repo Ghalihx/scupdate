@@ -5,7 +5,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ```
 
 ## IZIN IP AUTOSCRIPT KHUSUS MEMBER!
-Ghalih :
+WhatsApp Ghalih :
 <br><br><a href="https://wa.me/+6283835928783" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
 ## UPDATE SCRIPT 
@@ -84,12 +84,6 @@ wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/update.sh && chm
 - Script `VIP` Last Update `Version 2.4`, Semua Fitur Pada Menu Yang disebutkan Sudah dioptimalkan Sehingga Meminimalisir Adanya `BUG`<br>
 - Fitur Bot Tele hanya Sebagai Tambahan Beberapa diantaranya belum dioptimalkan<br>
 - Hubungi Admin Melalui Whatsapp atau Telegram , Kirim `IP VPS` Dan `Lakukan Proses Pembayaran!`. Setelah Berhasil IP Akan Diinputkan Oleh - Admin<br>
-
-
-## SOURCE CODE PURCHASED BY 
-Github :
-<br><br><a href="https://github.com/raitowind" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&label=Acc&message=Click%20Here&color=181717"></a>
-<br><br><a href="https://github.com/adamfir" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&label=Acc&message=Click%20Here&color=181717"></a>
 
 ## TESTIMONI
 Whatsapp & Telegram :
