@@ -8,6 +8,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 Ghalih :
 <br><br><a href="https://wa.me/+6283835928783" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
+## UPDATE SCRIPT 
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
 wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/update.sh && chmod +x update.sh && ./update.sh
