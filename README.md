@@ -4,7 +4,7 @@ Masukkan perintah dibawah untuk menginstall
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
-## IZIN IP AUTOSCRIPT KHUSUS MEMBER VIP !
+## IZIN IP AUTOSCRIPT KHUSUS MEMBER!
 Ghalih :
 <br><br><a href="https://wa.me/+6283835928783" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
@@ -39,7 +39,7 @@ wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/update.sh && chm
 
 ## PORT INFO
 ```
-- OpenSSH            : 22
+- OpenSSH            : 443, 80 , 22
 - SSH Websocket      : 80 [ON]
 - SSH SSL Websocket  : 443
 - SSH UDP            : 1-65535
