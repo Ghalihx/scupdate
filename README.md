@@ -85,6 +85,12 @@ wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/update.sh && chm
 - Fitur Bot Tele hanya Sebagai Tambahan Beberapa diantaranya belum dioptimalkan<br>
 - Hubungi Admin Melalui Whatsapp atau Telegram , Kirim `IP VPS` Dan `Lakukan Proses Pembayaran!`. Setelah Berhasil IP Akan Diinputkan Oleh - Admin<br>
 
+
+## SOURCE CODE PURCHASED BY 
+Github :
+<br><br><a href="https://github.com/raitowind" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&label=Acc&message=Click%20Here&color=181717"></a>
+<br><br><a href="https://github.com/adamfir" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&label=Acc&message=Click%20Here&color=181717"></a>
+
 ## TESTIMONI
 Whatsapp & Telegram :
 <br><br><a href="https://t.me/testighalih" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=0088cc"></a>
