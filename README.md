@@ -3,11 +3,6 @@ Masukkan perintah dibawah untuk menginstall
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
-## UPGRADE FOR DEBIAN AND UBUNTU
-Masukkan perintah dibawah jika anda menggunakan OS Debian Version 10 atau OS Ubuntu Version 20
-```
-apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && apt -y install xxd && apt install -y bzip2 && apt install -y wget && apt install -y curl && reboot
-```
 
 ## `IZIN IP AUTOSCRIPT KHUSUS MEMBER VIP !`
 Ghalih :
@@ -69,7 +64,7 @@ wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/update.sh && chm
 
 ## TAMPILAN MENU SCRIPT
 
-## `! MEKANISME PENYEWAAN AUTOSCRIPT MEMBER VVIP 10K, 2 IP / BULAN !`
+## `! MEKANISME PENYEWAAN AUTOSCRIPT MEMBER 10K, 2 IP / BULAN !`
 - Script `VIP` Last Update `Version 2.4`, Semua Fitur Pada Menu Utama Sudah Dioptimalkan Sehingga Meminimalisir Adanya `BUG`<br>
 
 Hubungi Admin Melalui Whatsaap, Kirim `IP VPS` Dan `Lakukan Proses Pembayaran!`. Setelah Berhasil IP Akan Diinputkan Oleh - Admin 
