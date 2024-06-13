@@ -4,10 +4,10 @@ Masukkan perintah dibawah untuk menginstall
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Ghalihx/scupdate/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
-## `IZIN IP AUTOSCRIPT KHUSUS MEMBER VIP !`
+## IZIN IP AUTOSCRIPT KHUSUS MEMBER VIP !
 Ghalih :
 <br><br><a href="https://wa.me/+6283835928783" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
-
+Group Chat : <br><br><a href="https://wa.me/+6283835928783" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
